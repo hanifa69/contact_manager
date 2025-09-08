@@ -59,6 +59,6 @@ def show_add_form():
     w.mainloop()
 def show(tree,contacts):
 ##    for contact in contacts:
-    tree.insert('',END,values=(.0
+    tree.insert('',END,values=(.0))
     
     
